@@ -1,5 +1,8 @@
 _repo: Wonderful-Escapes_52304
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 52304-h/images/cover.jpg
 creator:
   author:
     agent_name: Bernard, Frédéric
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '46775'
     url: http://www.gutenberg.org/2009/agents/46775
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52304#Wonderful-Escapes
 gutenberg_issued: '2016-06-11'
 gutenberg_type: Text
 identifiers:
