@@ -1,0 +1,42 @@
+_repo: Wonderful-Escapes_52304
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bernard, Frédéric
+    alias: Bernard, Frederic
+    gutenberg_agent_id: '46774'
+    url: http://www.gutenberg.org/2009/agents/46774
+  editor:
+    agent_name: Whiteing, Richard
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '46775'
+    url: http://www.gutenberg.org/2009/agents/46775
+description: ''
+gutenberg_issued: '2016-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52304'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Adventure stories'
+- !lcsh 'Escapes'
+- GITenberg
+tableOfContents: Aristomenes the Messenian -- Hegesistratus -- Demetrius Soter --
+  Marius -- Attalus -- Richard, Duke of Normandy -- Louis II., Count of Flanders --
+  The Duke of Albany -- James V., King of Scotland -- Secundus Curion -- Benvenuto
+  Cellini -- Mary, Queen of Scots -- Caumont de la Force -- Charles de Guise -- Mary
+  de Medicis -- Grotius -- Isaac Arnauld -- The Duke of Beaufort -- Cardinal de Retz
+  -- Quiquéran de Beaujeu -- Charles II. -- Blanche Gamond -- Jean Bart and the Chevalier
+  de Forbin -- Duguay Trouin -- The Abbé Count de Bucquoy -- Jacobite insurrectionists
+  -- Charles Edward -- Stanislaus Leczinski -- Baron Trenck -- Cassanova de Seingalt
+  -- Latude -- Beniowski -- Twelve priests saved by Geoffroy St. Hilaire -- De Chateaubrun
+  -- Sydney Smith -- Pichegru, Ramel, Barthelemy, etc. -- Colonel de Richemont --
+  Captain Grivel -- Lavalette -- Giovanni Arrivabene, Ugoni, and Scalvini -- Political
+  prisoners, 1834 -- Monsieur Rufin Piotrowski -- Prince Louis Napoleon -- James Stephens.
+title: Wonderful Escapes
+url: http://www.gutenberg.org/ebooks/52304
